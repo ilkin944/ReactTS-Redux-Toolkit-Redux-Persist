@@ -1,0 +1,7 @@
+{
+    "hi": "Salam",
+    "home": "Ev",
+    "service": "Xidmət",
+    "welcome": "Xoş gəldiniz",
+    "%{count}-new-message":"You have a %{count} new message-az"
+  }

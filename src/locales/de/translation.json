@@ -1,7 +1,0 @@
-{
-    "hi": "Hallo",
-    "home": "Heim",
-    "service": "Service",
-    "welcome": "Willkommen",
-    "%{count}-new-message":"You have a %{count} new message-de"
-  }

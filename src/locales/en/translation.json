@@ -1,7 +1,4 @@
 {
-    "hi":"Hello",
-    "home":"Home",
-    "service":"Service",
-    "welcome":"Welcome",
-    "%{count}-new-message":"You have a %{count} new message -en"
+    "hi":"Hello {{ad}}",
+    "name":"Name"
 }
